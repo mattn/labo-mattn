@@ -1,0 +1,19 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: test1
+desc: test number 1
+type: :task
+component: labo-mattn
+release: 
+reporter: mattn <mattn.jp@gmail.com>
+status: :unstarted
+disposition: 
+creation_time: 2008-11-06 02:47:02.140000 Z
+references: []
+
+id: 7109a5cc58edfbbf790d47e0998d6542f2dd2651
+log_events: 
+- - 2008-11-06 02:47:03.421000 Z
+  - mattn <mattn.jp@gmail.com>
+  - created
+  - ""
+git_branch: 
